@@ -1,4 +1,6 @@
-## About me.
+## Hey there!👋 I am Shivam Pratap Singh
+
+🚀 Data & Business Analyst | Data Enthusiast
 
 
 
