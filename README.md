@@ -1,11 +1,11 @@
 ## Hey there!👋 I am Shivam Pratap Singh
 
-🚀 Data & Business Analyst | Data Enthusiast
+🚀 Data & Business Analyst | Data Enthusiast      
 
 
 
 
-I am passionate about data-driven decision-making, automation, and bridging the gap between technology and business strategy. With a strong foundation in SQL, Python, Advanced Excel, Power BI, and Data Modeling, I love solving complex problems and deriving actionable insights from raw data.
+I am passionate about data-driven decision-making, automation, and bridging the gap between technology and business strategy. With a strong foundation in 📊 Advanced Excel, 🛢️ SQL, 📈 Power BI, 🐍 Python, and 🧩 Data Modeling. I love solving complex problems and deriving actionable insights from raw data.
 
 🔍 What I Do:
 
@@ -16,7 +16,7 @@ I am passionate about data-driven decision-making, automation, and bridging the 
 
 💡 Fun Fact: When I'm not crunching numbers, you'll find me exploring AI trends, designing dashboards, playing some sport, or diving into a new tech experiment.
 
-📊  🛢️  📈  🐍 
+📊  🛢️  📈  🐍  🧩
 
 🎯 Currently Exploring:
 
