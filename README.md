@@ -16,6 +16,8 @@ I am passionate about data-driven decision-making, automation, and bridging the 
 
 💡 Fun Fact: When I'm not crunching numbers, you'll find me exploring AI trends, designing dashboards, playing some sport, or diving into a new tech experiment.
 
+📊  🛢️  📈  🐍 
+
 🎯 Currently Exploring:
 
 1. Machine Learning for Business Insights 🤖
